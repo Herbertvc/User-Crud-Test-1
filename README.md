@@ -5,6 +5,8 @@
 ## Build Setup
 
 ``` bash
+# change directory to vue-user-crud
+
 # install dependencies
 npm install
 
